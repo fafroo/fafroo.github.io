@@ -32,7 +32,8 @@ In my research, I develop, numerically solve, and test mathematical models of el
 
 
 ## Publications in peer-reviewed journals
-* \biblabel{milos22}{Miloš et al. (2022)} **Miloš**, **Vágner**, **Budáč**, **Carda**, **Paidar**, **Fuhrmann**, **Bouzek** Generalized Poisson-Nernst-Planck-based Physical Model of the O~~~<sub>2</sub> ~~~$ | $LSM$ | $YSZ Electrode[10.1149/1945-7111/ac4a51](http://doi.org/10.1149/1945-7111/ac4a51), Journal of Electrochemical Society, 2022.
+* \biblabel{vagner22}{Vágner et al. (2022)} **Vágner**, **Pavelka**, **Klika**, **Fuhrmann** A multiscale thermodynamic generalization of Maxwell-Stefan diffusion equations and of the dusty gas model. arXiv preprint, 2022, [arXiv:2206.14930](https://arxiv.org/abs/2206.14930). (to appear in International Journal of Heat and Mass Transfer)
+* \biblabel{milos22}{Miloš et al. (2022)} **Miloš**, **Vágner**, **Budáč**, **Carda**, **Paidar**, **Fuhrmann**, **Bouzek** Generalized Poisson-Nernst-Planck-based Physical Model of the O~~~<sub>2</sub> ~~~$ | $LSM$ | $YSZ Electrode [doi: 10.1149/1945-7111/ac4a51](http://doi.org/10.1149/1945-7111/ac4a51), Journal of Electrochemical Society, 2022.
 
 * \biblabel{vagner19continuum}{Vágner et al. (2019)} **Vágner**, **Guhlke**, **Miloš**, **Müller**, **Fuhrmann**. A Continuum Model for Yttria-Stabilized Zirconia Incorporating Triple Phase Boundary, Lattice Structure and Immobile Oxide Ions. Journal of Solid State Electrochemistry, 2019, [doi: 10.1007/s10008-019-04356-9](https://doi.org/10.1007/s10008-019-04356-9)
 
