@@ -32,8 +32,9 @@ In my research, I develop, numerically solve, and test mathematical models of el
 
 
 ## Publications in peer-reviewed journals
-* \biblabel{vagner22}{Vágner et al. (2022)} **Vágner**, **Pavelka**, **Klika**, **Fuhrmann** A multiscale thermodynamic generalization of Maxwell-Stefan diffusion equations and of the dusty gas model. arXiv preprint, 2022, [arXiv:2206.14930](https://arxiv.org/abs/2206.14930). (to appear in International Journal of Heat and Mass Transfer)
-* \biblabel{milos22}{Miloš et al. (2022)} **Miloš**, **Vágner**, **Budáč**, **Carda**, **Paidar**, **Fuhrmann**, **Bouzek** Generalized Poisson-Nernst-Planck-based Physical Model of the O~~~<sub>2</sub> ~~~$ | $LSM$ | $YSZ Electrode [doi: 10.1149/1945-7111/ac4a51](http://doi.org/10.1149/1945-7111/ac4a51), Journal of Electrochemical Society, 2022.
+* \biblabel{vagner22}{Vágner et al. (2022)} **Vágner**, **Pavelka**, **Klika**, **Fuhrmann** A multiscale thermodynamic generalization of Maxwell-Stefan diffusion equations and of the dusty gas model. International Journal of Heat and Mass Transfer, 2022, [doi: 10.1016/j.ijheatmasstransfer.2022.123405](https://doi.org/10.1016/j.ijheatmasstransfer.2022.123405) or [arXiv:2206.14930](https://arxiv.org/abs/2206.14930)
+
+* \biblabel{milos22}{Miloš et al. (2022)} **Miloš**, **Vágner**, **Budáč**, **Carda**, **Paidar**, **Fuhrmann**, **Bouzek** Generalized Poisson-Nernst-Planck-based Physical Model of the O~~~<sub>2</sub> ~~~$ | $LSM$ | $YSZ Electrode, Journal of Electrochemical Society, 2022 [doi: 10.1149/1945-7111/ac4a51](http://doi.org/10.1149/1945-7111/ac4a51)
 
 * \biblabel{vagner19continuum}{Vágner et al. (2019)} **Vágner**, **Guhlke**, **Miloš**, **Müller**, **Fuhrmann**. A Continuum Model for Yttria-Stabilized Zirconia Incorporating Triple Phase Boundary, Lattice Structure and Immobile Oxide Ions. Journal of Solid State Electrochemistry, 2019, [doi: 10.1007/s10008-019-04356-9](https://doi.org/10.1007/s10008-019-04356-9)
 
@@ -51,6 +52,8 @@ In my research, I develop, numerically solve, and test mathematical models of el
 
 * \biblabel{pavelka2015}{Pavelka et al. (2015)} **Pavelka**, **Klika**, **Vágner**, **Maršík**, Generalization of Exergy Analysis, Applied Energy, 2015, [doi: 10.1016/j.apenergy.2014.09.071](https://doi.org/10.1016/j.apenergy.2014.09.071)
 
+## Code
+* \biblabel{vagner2022fvmdgm}[Vágner and Furhmann (2022)] **Vágner**, **Fuhrmann**, Finite-volume implementation of non isothermal dusty gas model, 2022, [Github repository](https://github.com/fafroo/Nonisothermal-dusty-gas-model/) or [doi: 10.5281/zenodo.6675674](https://doi.org/10.5281/zenodo.6675674)
 
 ## Dissertation Thesis
 * \biblabel{vagner19thesis}{Vágner (2019)} **Vágner**, Thermodynamic analysis of solid oxide cells, [20.500.11956/107797](http://hdl.handle.net/20.500.11956/107797) , Dissertation Thesis, Charles University, Prague, 2019.
