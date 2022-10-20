@@ -53,7 +53,7 @@ In my research, I develop, numerically solve, and test mathematical models of el
 * \biblabel{pavelka2015}{Pavelka et al. (2015)} **Pavelka**, **Klika**, **Vágner**, **Maršík**, Generalization of Exergy Analysis, Applied Energy, 2015, [doi: 10.1016/j.apenergy.2014.09.071](https://doi.org/10.1016/j.apenergy.2014.09.071)
 
 ## Code
-* \biblabel{vagner2022fvmdgm}[Vágner and Furhmann (2022)] **Vágner**, **Fuhrmann**, Finite-volume implementation of non isothermal dusty gas model, 2022, [Github repository](https://github.com/fafroo/Nonisothermal-dusty-gas-model/) or [doi: 10.5281/zenodo.6675674](https://doi.org/10.5281/zenodo.6675674)
+* \biblabel{vagner2022fvmdgm}{Vágner and Furhmann (2022)} **Vágner**, **Fuhrmann**, Finite-volume implementation of non isothermal dusty gas model, 2022, [Github repository](https://github.com/fafroo/Nonisothermal-dusty-gas-model/) or [doi: 10.5281/zenodo.6675674](https://doi.org/10.5281/zenodo.6675674)
 
 ## Dissertation Thesis
 * \biblabel{vagner19thesis}{Vágner (2019)} **Vágner**, Thermodynamic analysis of solid oxide cells, [20.500.11956/107797](http://hdl.handle.net/20.500.11956/107797) , Dissertation Thesis, Charles University, Prague, 2019.
