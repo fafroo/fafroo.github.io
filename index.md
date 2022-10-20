@@ -9,6 +9,7 @@
 @@
 Hello, I'm Petr Vágner and I work as a postdoc at [Weierstrass Institute](https://www.wias-berlin.de/).
 In my research, I develop, numerically solve, and test mathematical models of electrochemical devices. 
+Currently, I'm investigating effects of active interfaces in perovskite solar cells and solid oxide cells. 
 ~~~
 <div style="clear: both"></div>
 ~~~
