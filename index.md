@@ -7,9 +7,12 @@
 @@container
 @@left ![](/assets/PV_crop_m.jpg) @@
 @@
-Hello, I'm Petr Vágner and I work as a postdoc at [Weierstrass Institute](https://www.wias-berlin.de/).
-In my research, I develop, numerically solve, and test mathematical models of electrochemical devices. 
-Currently, I'm investigating effects of active interfaces in perovskite solar cells and solid oxide cells. 
+Hello, I'm Petr Vágner and I work in [EMPIT](https://www.empit.com) as a Data Scientist.
+Previously, I worked as a postdoc at [Weierstrass Institute](https://www.wias-berlin.de/) 
+where I investigated models of active interfaces in perovskite solar cells and solid oxide cells. 
+I also worked as researcher at [Charles University](https://www.mff.cuni.cz), [University of Chemistry and Technology](https://) and [Faculty of Nuclear Physics and Engineering]().
+In my research, I develop, numerically solve, and test mathematical models of electrochemical systems. 
+
 ~~~
 <div style="clear: both"></div>
 ~~~
