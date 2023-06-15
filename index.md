@@ -19,8 +19,6 @@ In my research, I develop, numerically solve, and test mathematical models of el
 @@
 
 ## 
-* e-mail: [petr.vagner-delete-this-prior-to--sending@wias-berlin.de](mailto:petr.vagner-delete-this-prior-to--sending@wias-berlin.de)
-* Weierstrass Institute, Mohrenstraße 39, 10117 Berlin, Germany
 * ORCID: [0000-0001-5952-0025](https://orcid.org/0000-0001-5952-0025) 
 * or contact me on [ResearchGate](https://www.researchgate.net/profile/Petr-Vagner) or [LinkedIn](https://www.linkedin.com/in/petr-vágner-89360510b)
 
