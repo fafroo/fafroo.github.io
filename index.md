@@ -7,12 +7,13 @@
 @@container
 @@left ![](/assets/PV_crop_m.jpg) @@
 @@
-Hello, I'm Petr Vágner and I work in [EMPIT](https://www.empit.com) as a Data Scientist.
-Previously, I worked as a postdoc at [Weierstrass Institute](https://www.wias-berlin.de/) 
-where I investigated models of active interfaces in perovskite solar cells and solid oxide cells. 
-I also worked as researcher at [Charles University](https://www.mff.cuni.cz), [University of Chemistry and Technology](https://) and [Faculty of Nuclear Physics and Engineering]().
-In my research, I develop, numerically solve, and test mathematical models of electrochemical systems. 
+Hello, I'm Petr Vágner and I work in [EMPIT](https://www.empit.com) as a physicist developing models for in-direct detection of [pipeline corrosion](https://empit.com/services/inspection/CMI-corrosion-assessment).
 
+Previously, I worked as a postdoc at [Weierstrass Institute](https://www.wias-berlin.de/) with [Jürgen Fuhrmann](https://www.wias-berlin.de/people/fuhrmann/?lang=1)
+where I investigated models of active interfaces in perovskite solar cells and solid oxide cells. This was done in collaboration with the [high-temperature lab](https://uat.vscht.cz/research/workgroups/technical-electrochemistry) at the University of Chemistry and Technology
+In my research, I developed, numerically solved, and tested mathematical models (PDEs) of electrochemical systems. 
+
+I also worked as a researcher at [Charles University](https://www.mff.cuni.cz) with [Michal Pavelka](https://www.karlin.mff.cuni.cz/~pavelka/) on the [GENERIC](https://en.wikipedia.org/wiki/GENERIC_formalism) formulations of mixture theories for charged species.
 ~~~
 <div style="clear: both"></div>
 ~~~
